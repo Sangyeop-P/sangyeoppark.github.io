@@ -37,14 +37,14 @@ Microsoft 관리 되는 지점
  
 이러한 규정 준수 점수는 다음의 범주로 분류됩니다.
  
-•	Protect information
-•	Govern information
-•	Control Access
-•	Project Against Threats
-•	Discover And Respond
-•	Manage Devices
-•	Manage Internal Risk
-•	Manage Compliance
+•	Protect information  
+•	Govern information  
+•	Control Access  
+•	Project Against Threats  
+•	Discover And Respond  
+•	Manage Devices  
+•	Manage Internal Risk  
+•	Manage Compliance  
  
 위 범주 내에서 규정 준수에 대한 임계치를 두어 최종 보안에 대한 지표를 점수로 표현합니다.
 개선 조치 사항에서 수행이 가능한 조치 사항을 목록으로 볼 수 있습니다.
