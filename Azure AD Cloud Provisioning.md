@@ -36,17 +36,17 @@ Azure Portal >> Azure Active Directory >> Azure AD Connect
 ![image](https://user-images.githubusercontent.com/58406083/71649104-2e428880-2d4f-11ea-91a9-01cb80705ac6.png)
 
 •	범위
-o	Active Directory에서 Azure AD로 프로비저닝할 대상을 정의합니다. 
-도메인, AD 그룹 또는 AD 조직 구성 단위별로 범위를 정의할 수 있습니다.
-(On-Premise 도메인과 Azure AD 도메인이 같을 경우 동일한 도메인으로 사용자가 생성되지만,
-도메인이 다를 경우 example.onmicrosoft.com 형태의 기본 Azure AD 도메인으로 사용자가 생성됩니다.)
+  o	Active Directory에서 Azure AD로 프로비저닝할 대상을 정의합니다. 
+    도메인, AD 그룹 또는 AD 조직 구성 단위별로 범위를 정의할 수 있습니다.
+    (On-Premise 도메인과 Azure AD 도메인이 같을 경우 동일한 도메인으로 사용자가 생성되지만,
+    도메인이 다를 경우 example.onmicrosoft.com 형태의 기본 Azure AD 도메인으로 사용자가 생성됩니다.)
 •	특성 관리
-o	Active Directory에서 Azure AD로 암호 해시를 동기화해야 하는지 여부를 정의합니다. 
-이는 동기화 설정이며, 인증에 암호 해시를 사용해야 하는지 여부를 정의하지 않습니다.
+  o	Active Directory에서 Azure AD로 암호 해시를 동기화해야 하는지 여부를 정의합니다. 
+    이는 동기화 설정이며, 인증에 암호 해시를 사용해야 하는지 여부를 정의하지 않습니다.
 •	설정
-o	프로비저닝이 정상이 아닌 경우 알림을 받을 메일 주소를 정의합니다.
+  o	프로비저닝이 정상이 아닌 경우 알림을 받을 메일 주소를 정의합니다.
 •	배포
-o	구성과 테스트가 완료되면 구성을 사용하도록 설정합니다. 그러면 2분마다 프로비저닝이 실행됩니다.
-(2분 단위의 프로비저닝은 변경할 수 없습니다.)
+  o	구성과 테스트가 완료되면 구성을 사용하도록 설정합니다. 그러면 2분마다 프로비저닝이 실행됩니다.
+    (2분 단위의 프로비저닝은 변경할 수 없습니다.)
 
 참고 자료 : https://docs.microsoft.com/ko-kr/azure/active-directory/cloud-provisioning/how-to-configure
