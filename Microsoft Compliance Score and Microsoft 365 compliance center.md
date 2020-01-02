@@ -1,4 +1,4 @@
-Microsoft Compliance Score and Microsoft 365 compliance center
+Microsoft Compliance Score and Microsoft 365 Compliance Center
 ==============================================================
 
 Microsoft에서는 보안을 위한 대비책으로 규정 준수라는 이름의 서비스를 활성화하기 시작했습니다.
